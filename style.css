@@ -1,0 +1,16 @@
+.jumbotron{
+    background-image: url(/assorted-colors-of-surfboard-757133.jpg);
+    height: 600px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    filter: blur(0.31px);
+    -webkit-filter: blur(0.31px);
+}
+
+.container-fluid{
+    max-width: 1700px;
+}
+.card-deck .card{
+    min-width: 200px;
+}
