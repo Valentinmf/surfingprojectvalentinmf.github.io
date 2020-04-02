@@ -1,3 +1,9 @@
+@font-face{
+    font-family: 'Lato', sans-serif;
+}
+body{
+    font-family: 'Lato', sans-serif;
+}
 .jumbotron{
     background-image: url(/background-surf.jpg);
     height: 600px;
